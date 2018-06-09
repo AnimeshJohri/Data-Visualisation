@@ -1,1 +1,3 @@
 # Data-Visualisation
+
+I am a part of the data analytics team working for The UK Automobile Insurance company based in UK. We have a division that handles auto insurance and I am analyzing data related to accidents and mapping it to the conditions and demographics related to the accident site. This data is about vehicle collisions that took place in UK in the year of 2006 and has been collected by UK police force. The objective of the case study is to gain insights such as main reasons for accidents the circumstances like weather and road conditions to plan our accident coverage. We are also planning to run a campaign for road safety and will use insights from the study to demonstrate it better.
